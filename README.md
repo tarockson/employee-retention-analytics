@@ -89,11 +89,6 @@ Simply click on `employee_retention_and_culture_analysis.ipynb` to view the enti
 - Analysis demonstrates end-to-end data science workflow
 - For detailed methodology and findings, see [`CASE_STUDY.md`](https://github.com/tarockson/employee-retention-analytics/blob/main/case_study/CASE_STUDY.md)
 
-## 📊 Interactive Dashboard
-
-View the combined interactive dashboard in the 
-[Retention Analytics project](https://tarockson.github.io/employee-retention-analytics/)
-
 ### Questions?
 Feel free to open an issue or contact me.
 
