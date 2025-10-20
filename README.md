@@ -52,10 +52,7 @@ Simply click on `employee_retention_and_culture_analysis.ipynb` to view the enti
 
 4. Open `notebooks/employee_retention_and_culture_analysis.ipynb`
 
-5. View dashboard:
-```bash
-   # Open dashboard/index.html in your web browser
-```
+5. View dashboard: [Retention Analytics project](https://tarockson.github.io/employee-retention-analytics/)
 
 ### Data
 - **HRIS Dataset**: ~900 employees, 3+ years of history (anonymized)
