@@ -24,7 +24,7 @@ compensation.
 
 ### What's Included
 - `employee_retention_and_culture_analysis.ipynb` - Complete analysis covering both projects
-- `dashboard.html` - Interactive visualization of results
+- `index.html` - Interactive visualization of results
 - `sample_hris_anonymized.csv` - Example retention dataset
 - `CASE_STUDY.md` - Detailed methodology and findings
 
@@ -54,7 +54,7 @@ Simply click on `employee_retention_and_culture_analysis.ipynb` to view the enti
 
 5. View dashboard:
 ```bash
-   # Open dashboard/dashboard.html in your web browser
+   # Open dashboard/index.html in your web browser
 ```
 
 ### Data
